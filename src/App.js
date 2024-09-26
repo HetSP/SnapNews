@@ -29,7 +29,7 @@ const App = () => {
                   setProgress={setProgress}
                   key="general"
                   pageSize={pageSize}
-                  country="in"
+                  country="us"
                   category="general"
                 />
               }
@@ -43,7 +43,7 @@ const App = () => {
                   setProgress={setProgress}
                   key="business"
                   pageSize={pageSize}
-                  country="in"
+                  country="us"
                   category="business"
                 />
               }
@@ -57,7 +57,7 @@ const App = () => {
                   setProgress={setProgress}
                   key="entertainment"
                   pageSize={pageSize}
-                  country="in"
+                  country="us"
                   category="entertainment"
                 />
               }
@@ -71,7 +71,7 @@ const App = () => {
                   setProgress={setProgress}
                   key="health"
                   pageSize={pageSize}
-                  country="in"
+                  country="us"
                   category="health"
                 />
               }
@@ -85,7 +85,7 @@ const App = () => {
                   setProgress={setProgress}
                   key="science"
                   pageSize={pageSize}
-                  country="in"
+                  country="us"
                   category="science"
                 />
               }
@@ -99,7 +99,7 @@ const App = () => {
                   setProgress={setProgress}
                   key="sports"
                   pageSize={pageSize}
-                  country="in"
+                  country="us"
                   category="sports"
                 />
               }
@@ -113,7 +113,7 @@ const App = () => {
                   setProgress={setProgress}
                   key="technology"
                   pageSize={pageSize}
-                  country="in"
+                  country="us"
                   category="technology"
                 />
               }
